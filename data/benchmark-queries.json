@@ -1,0 +1,84 @@
+[
+  {
+    "id": 1,
+    "question": "How many customers are there?",
+    "expectMinRows": 1,
+    "expectMaxRows": 1
+  },
+  {
+    "id": 2,
+    "question": "List every customer's full name and email address.",
+    "expectMinRows": 5,
+    "expectMaxRows": 5
+  },
+  {
+    "id": 3,
+    "question": "Which customers have spent the most in total, in dollars?",
+    "expectMinRows": 1
+  },
+  {
+    "id": 4,
+    "question": "What is the average order value by region, in dollars?",
+    "expectMinRows": 1
+  },
+  {
+    "id": 5,
+    "question": "Show me all orders that are still pending.",
+    "expectMinRows": 1
+  },
+  {
+    "id": 6,
+    "question": "Which products have never been ordered?",
+    "expectMinRows": 0
+  },
+  {
+    "id": 7,
+    "question": "List all orders with the customer's name, order date, and status.",
+    "expectMinRows": 7,
+    "expectMaxRows": 7
+  },
+  {
+    "id": 8,
+    "question": "What is the total revenue from shipped orders only, in dollars?",
+    "expectMinRows": 1,
+    "expectMaxRows": 1
+  },
+  {
+    "id": 9,
+    "question": "Which region has the most customers?",
+    "expectMinRows": 1
+  },
+  {
+    "id": 10,
+    "question": "Show the top 3 best-selling products by total quantity sold.",
+    "expectMinRows": 1,
+    "expectMaxRows": 3
+  },
+  {
+    "id": 11,
+    "question": "Find customers who signed up in 2024 and have placed at least one order.",
+    "expectMinRows": 0
+  },
+  {
+    "id": 12,
+    "question": "What percentage of orders were cancelled?",
+    "expectMinRows": 1,
+    "expectMaxRows": 1
+  },
+  {
+    "id": 13,
+    "question": "List each product along with how many times it appears across all orders.",
+    "expectMinRows": 5,
+    "expectMaxRows": 5
+  },
+  {
+    "id": 14,
+    "question": "Which customer has placed the most orders?",
+    "expectMinRows": 1
+  },
+  {
+    "id": 15,
+    "question": "Show orders placed in the last quarter of any year along with total item quantity per order.",
+    "expectMinRows": 0
+  }
+]
